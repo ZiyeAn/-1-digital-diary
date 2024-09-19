@@ -1,0 +1,24 @@
+.indie-flower-regular {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    background-color: #fcfcfc;
+    opacity: 0.8;
+    background-size: 23px 23px;
+    background-image:  repeating-linear-gradient(0deg, #444cf7, #444cf7 1.1px, #fcfcfc 1.1px, #fcfcfc);
+    margin-left:2.5%;
+    margin-right: 2.5%;
+}
+h1{
+    font-family: "Indie Flower", cursive;
+    font-size: 33px;
+}
+h2{
+    font-family: "Indie Flower", cursive;
+    font-size: 37px;
+}
+p{
+    font-family: "Indie Flower", cursive;
+}
